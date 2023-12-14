@@ -57,6 +57,8 @@ restaurants
 │   │   ├── Menu.js
 │   │   ├── Blog.js
 │   │   └── Footer.js
+│   │   └── HeroSection.js
+│   │   └── FeaturedDishes.js
 │   │
 │   ├── pages
 │   │   ├── index.js
