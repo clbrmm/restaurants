@@ -79,9 +79,9 @@ restaurants
 │
 ├── public
 │   ├── images
-│   │   ├── appetizing-photo1.jpg
-│   │   ├── social-event.jpg
-│   │   └── chef-interview.jpg
+│   │   ├── *.jpg
+│   │   ├── *.jpg
+│   │   └── *.jpg
 │   │
 │   ├── favicon.ico
 │   ├── manifest.json
