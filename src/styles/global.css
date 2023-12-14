@@ -1,0 +1,38 @@
+/* global.css */
+
+/* Apply a reset to remove default margin and padding on all elements */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Set a consistent font for the entire website */
+  body {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  /* Apply a global background color */
+  body {
+    background-color: #f4f4f4;
+  }
+  
+  /* Apply a maximum width to the main content for better readability */
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Style hyperlinks */
+  a {
+    color: #3498db;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Add additional global styling as needed */
+  

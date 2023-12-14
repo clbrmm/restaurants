@@ -1,0 +1,42 @@
+/* menu.css */
+
+/* Style the menu section */
+.menu {
+    background-color: #fff;
+    padding: 50px 20px;
+    text-align: center;
+  }
+  
+  .menu h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 30px;
+  }
+  
+  /* Style individual menu items */
+  .menu-item {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: left;
+  }
+  
+  .menu-item h3 {
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .menu-item p {
+    color: #777;
+    line-height: 1.5;
+  }
+  
+  .menu-item .price {
+    font-weight: bold;
+    color: #3498db;
+  }
+  
+  /* Add additional styling as needed */
+  

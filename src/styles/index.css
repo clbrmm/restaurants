@@ -1,0 +1,63 @@
+/* index.css */
+
+/* Style the hero section */
+.hero {
+    background-image: url('/images/hero-background.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    padding: 100px 20px;
+  }
+  
+  .hero h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  .hero p {
+    font-size: 18px;
+    margin-bottom: 40px;
+  }
+  
+  /* Style the featured dishes section */
+  .featured-dishes {
+    background-color: #fff;
+    padding: 50px 20px;
+    text-align: center;
+  }
+  
+  .featured-dishes h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 30px;
+  }
+  
+  /* Style individual featured dish cards */
+  .featured-dish-card {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .featured-dish-card img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 15px;
+  }
+  
+  .featured-dish-card h3 {
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .featured-dish-card p {
+    color: #777;
+    line-height: 1.5;
+  }
+  
+  /* Add additional styling as needed */
+  

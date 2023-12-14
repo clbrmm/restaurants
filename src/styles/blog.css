@@ -1,0 +1,34 @@
+/* blog.css */
+
+.blog {
+    margin-top: 20px;
+  }
+  
+  .blog h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 15px;
+  }
+  
+  .blog ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .blog li {
+    margin-bottom: 20px;
+  }
+  
+  .blog h3 {
+    font-size: 18px;
+    color: #555;
+    margin-bottom: 10px;
+  }
+  
+  .blog p {
+    color: #777;
+    line-height: 1.5;
+  }
+  
+  /* Add additional styling as needed */
+  

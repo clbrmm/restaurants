@@ -1,0 +1,37 @@
+/* social.css */
+
+/* Style the social media feed section */
+.social-media-feed {
+    background-color: #fff;
+    padding: 50px 20px;
+    text-align: center;
+  }
+  
+  .social-media-feed h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 30px;
+  }
+  
+  /* Style individual social media posts */
+  .social-media-post {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: left;
+  }
+  
+  .social-media-post p {
+    color: #777;
+    line-height: 1.5;
+  }
+  
+  .social-media-post .timestamp {
+    display: block;
+    color: #999;
+    margin-top: 10px;
+  }
+  
+  /* Add additional styling as needed */
+  
