@@ -45,7 +45,8 @@ This project is a responsive and engaging Next.js website for a restaurant, show
 - **.gitignore:** Specifies files ignored by Git.
 
 
-'''
+```
+
 restaurants
 │
 ├── src
@@ -91,7 +92,7 @@ restaurants
 ├── package.json
 └── next.config.js
 
-'''
+```
 
 
 
